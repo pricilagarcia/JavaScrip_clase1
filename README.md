@@ -5,4 +5,4 @@
 <p><center>Curso: Laboratorio 2</center></p>
 <p><center>Estudiante: Pricila Lizbeth Morales García</center></p>
 <p><center>Profesor: Jossue Fuentes</center></p>
-Link: https://pricilagarcia.github.io/JavaScrip_clase1/ejemplo 
+<center>[Link](https://pricilagarcia.github.io/JavaScrip_clase1/ejemplo "Link")</center>
