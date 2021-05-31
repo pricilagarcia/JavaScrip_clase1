@@ -1,4 +1,3 @@
-# JavaScrip_clase1
 <H1><center>EVENTO CLICK</center></H1>
 
 <p><center>Colegio Santa Catalina Laboure</center></p>
